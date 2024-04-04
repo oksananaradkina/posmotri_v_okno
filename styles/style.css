@@ -123,6 +123,7 @@ ol {
 
 .content__card-link:focus {
     border: 1px solid #ffffff;
+    outline: none;
 }
 
 .result__video {
