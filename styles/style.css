@@ -56,11 +56,13 @@ ol {
     grid-gap: 30px;
     padding-top: 132px;
     padding-bottom: 100px;
+    margin: 0 auto;
 }
 
 .search-form {
     display: flex;
     justify-content: space-between;
+    margin-top: 16px;
 }
 
 .content__accent {
@@ -135,6 +137,7 @@ ol {
 
 .result__video-container {
     width: 711px;
+    height: 386px;
     position: relative;
 }
 
